@@ -1,0 +1,31 @@
+body{
+    background-color: lightgreen;
+    text-align: center;
+}
+#imgG{
+    height: 200px;
+    width: 100%;
+}
+#Hint{
+text-align: left;
+}
+#Sub{
+    background-color: rgb(0, 105, 0);
+    color: white;
+    border-radius: 20px;
+}
+#Show{
+    background-color: rgb(0, 105, 0);
+    color: white;
+    border-radius: 20px;
+}
+#Sort{
+    background-color: rgb(0, 105, 0);
+    color: white;
+    border-radius: 20px;
+}
+#searc{
+    background-color: rgb(0, 105, 0);
+    color: white;
+    border-radius: 20px;
+}
